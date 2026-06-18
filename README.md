@@ -7,7 +7,7 @@ Automatically displays item values from [TradersExtended](https://thunderstore.i
 ## Features
 
 * **Native Tooltips** : Displays item values directly in Valheim's native tooltip system, just like base game items.
-* **Automatic Synchronization** : No configuration required. Values are automatically read from TradersExtended `.sell` json files.
+* **Automatic Synchronization** : No configuration required. Values are automatically read from [TradersExtended](https://thunderstore.io/c/valheim/p/shudnal/TradersExtended/) `.sell` json files.
 * **Lightweight Design** : Runs only during the initial loading phase and has zero impact on gameplay performance.
 
 ### Example
