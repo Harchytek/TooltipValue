@@ -29,4 +29,7 @@ I make these mods for my friends and me, but they can be useful to everyone. It'
 
 <p align="left"><img src="https://raw.githubusercontent.com/Harchytek/HudStar/main/docs/images/github.png" alt="Github" width="70" align="absmiddle">&nbsp;<strong><a href="https://github.com/Harchytek?tab=repositories">Harchytek</a></strong></p>
 
-<p align="left"><a href="ror2mm://v1/install/thunderstore.io/Harchytek/Ironfjord_Vanilla/latest/" target="_blank"><img src="https://cdn.simpleicons.org/github/C5C2FF" alt="Github" width="31" align="absmiddle"></a>&nbsp;<strong><a href="ror2mm://v1/install/thunderstore.io/Harchytek/Ironfjord_Vanilla/latest/" target="_blank"> Harchytek</a></strong></p>
+### Installation
+3. Click the button to install:
+
+[![Install](https://img.shields.io/badge/Install-181717?style=for-the-badge&logo=thunderstore&logoColor=green)](ror2mm://v1/install/thunderstore.io/Harchytek/Ironfjord_Vanilla/latest/)
